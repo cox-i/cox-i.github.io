@@ -1,2 +1,2 @@
-# Mediajockey
+# Media Jockey
 Communications Consulting
