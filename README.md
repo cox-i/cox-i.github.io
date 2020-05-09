@@ -1,2 +1,2 @@
-# mediajockey.github.io
+# Mediajockey
 Communications Consulting
