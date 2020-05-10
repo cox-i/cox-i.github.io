@@ -40,89 +40,34 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="2.9491527"
-     inkscape:cx="95.899438"
+     inkscape:cx="93.077572"
      inkscape:cy="18"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
-  <g
-     id="g827"
-     style="opacity:0.24">
-    <rect
-       rx="0.64306408"
-       ry="3.2050121"
-       y="3.1809044"
-       x="138.25372"
-       height="30.768114"
-       width="23.150305"
-       id="rect821"
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3.76228809;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       rx="0.60842735"
-       ry="2.4673879"
-       y="10.537763"
-       x="116.08918"
-       height="23.686926"
-       width="21.903385"
-       id="rect821-3"
-       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:3.21094775;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       rx="0.65212405"
-       ry="3.2005911"
-       y="3.2114506"
-       x="92.514626"
-       height="30.72567"
-       width="23.476467"
-       id="rect821-3-6"
-       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:3.78608418;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       rx="0.63557559"
-       ry="2.5312605"
-       y="9.8680582"
-       x="70.024483"
-       height="24.3001"
-       width="22.880724"
-       id="rect821-3-6-7"
-       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:3.32400894;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       rx="0.64640874"
-       ry="1.9971633"
-       y="15.168581"
-       x="47.041485"
-       height="19.172768"
-       width="23.27072"
-       id="rect821-3-6-7-5"
-       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#00ffff;stroke-width:2.97762895;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       rx="0.64706272"
-       ry="1.218114"
-       y="22.972954"
-       x="24.241709"
-       height="11.693893"
-       width="23.294262"
-       id="rect821-3-6-7-5-3"
-       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2.32663035;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       rx="0.57374054"
-       ry="3.085309"
-       y="4.4678349"
-       x="2.7735009"
-       height="29.618967"
-       width="20.654663"
-       id="rect821-3-6-7-5-3-5"
-       style="opacity:1;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:3.48672152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:21.10006714px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52750176"
-     x="0.24181694"
-     y="27.099113"
+     style="font-style:normal;font-weight:normal;font-size:23.54631424px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58865798"
+     x="0.6271587"
+     y="17.98897"
      id="text820"
-     transform="scale(1.0590119,0.94427646)"><tspan
+     transform="scale(0.9489902,1.0537517)"><tspan
        sodipodi:role="line"
        id="tspan818"
-       x="0.24181694"
-       y="27.099113"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fascinate Inline';-inkscape-font-specification:'Fascinate Inline';stroke-width:0.52750176">MEDIA JOCKEY</tspan></text>
+       x="0.6271587"
+       y="17.98897"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fascinate Inline';-inkscape-font-specification:'Fascinate Inline';stroke-width:0.58865798">MEDIA JOCKEY</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:26.08933067px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.65223342"
+     x="0.3352465"
+     y="29.842331"
+     id="text823"
+     transform="scale(0.86685506,1.1535954)"><tspan
+       sodipodi:role="line"
+       id="tspan821"
+       x="0.3352465"
+       y="29.842331"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.65360069px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';stroke-width:0.65223342">Communication Consulting</tspan></text>
 </svg>
